@@ -1,7 +1,3 @@
- NGanch/README.md
-
-
-
 # Hi there👋, I'm Nadiia Honcharova  
   
 - 🌱 I’m currently learning Full Stack Development
